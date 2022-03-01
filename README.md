@@ -1,5 +1,6 @@
 <p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p>
 <h1 align="center" id="heading">Window Configurator</h1>
+<p align="center"><a href="http://window.server475561.nazwa.pl/" target="_blank">DEPLOYMENT ON SERVER VERSION</a></p>
 
 > This application is created to prove development skills. It implements a simple window configurator where you can customize product base on dimensions and price.
 
@@ -62,3 +63,4 @@ npm run build
 - [ ] Button - clear storage
 - [ ] Image expand, should uncover on changing width
 - [x] Add in readme section about used technologies
+- [x] Deployment on server
